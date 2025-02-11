@@ -7,7 +7,7 @@ const Sidebar = ({ setActivePage }) => {
         <span className="mx-5">
           <img
             className="w-9 h-9 text-lg "
-            src="src\assets\dummy logo.png"
+            src="/assets/dummy logo.png"
             alt=""
           />
         </span>
@@ -21,7 +21,7 @@ const Sidebar = ({ setActivePage }) => {
           {" "}
           <img
             className="w-5 h-5 text-red"
-            src="src\assets\Graph 1.png"
+            src="/assets/Graph 1.png"
             alt=""
           />
           <p className="pl-5"> Dashboard</p>
@@ -33,7 +33,7 @@ const Sidebar = ({ setActivePage }) => {
           {" "}
           <img
             className="w-5 h-5"
-            src="src\assets\ix_user-management.png"
+            src="/assets/ix_user-management.png"
             alt=""
           />
           <p className="pl-5"> User Management</p>
@@ -44,7 +44,7 @@ const Sidebar = ({ setActivePage }) => {
           onClick={() => setActivePage("userManagement")}
         >
           {" "}
-          <img className="w-5 h-5" src="src\assets\Vector (1).png" alt="" />
+          <img className="w-5 h-5" src="assets/Vector (1).png" alt="" />
           <p className="pl-5"> Excle integration</p>
         </li>
         <li
@@ -54,7 +54,7 @@ const Sidebar = ({ setActivePage }) => {
           {" "}
           <img
             className="w-5 h-5"
-            src="src\assets\mdi_message-processing-outline.png"
+            src="/assets/mdi_message-processing-outline.png"
             alt=""
           />
           <p className="pl-5"> Messages</p>
@@ -66,7 +66,7 @@ const Sidebar = ({ setActivePage }) => {
           {" "}
           <img
             className="w-5 h-5"
-            src="src\assets\hugeicons_chat-bot.png"
+            src="/assets/hugeicons_chat-bot.png"
             alt=""
           />
           <p className="pl-5"> ChatBot</p>
@@ -77,7 +77,7 @@ const Sidebar = ({ setActivePage }) => {
         >
           <img
             className="w-5 h-5"
-            src="src\assets\mdi_cog-outline.png"
+            src="/assets/mdi_cog-outline.png"
             alt=""
           />
           <p className="pl-5">Settings</p>
