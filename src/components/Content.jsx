@@ -42,7 +42,7 @@ const Content = ({ activePage }) => {
               </div>
             </div>
             <div>
-              <img src="/assets/Visitor Insights.png" alt="" />
+              <img src="/assets/Visitor_Insights.png" alt="" />
             </div>
           </div>
 
@@ -52,16 +52,16 @@ const Content = ({ activePage }) => {
               Total Revenue
               <img
                 className="mt-7"
-                src="/assets/Group 1000002742.png"
+                src="/assets/Group_1000002742.png"
                 alt=""
               />
             </div>
             <div className="  rounded-lg shadow">
-              <img src="/assets/Customer Satisfaction.png" alt="" />
+              <img src="/assets/Customer_Satisfaction.png" alt="" />
             </div>
             <div className=" font-bold bg-white p-4 rounded-lg shadow">
               Target vs Reality
-              <img src="/assets/Group 1000002769 (1).png" alt="" />
+              <img src="/assets/Group_1000002769 (1).png" alt="" />
             </div>
           </div>
 
@@ -158,26 +158,26 @@ const Content = ({ activePage }) => {
               Volume vs Service Level
               <ul className=" flex gap-10 m-5">
                 <li>
-                  <img src="/assets/Group 11.png" alt="" />
+                  <img src="/assets/Group_11.png" alt="" />
                 </li>
                 <li>
-                  <img src="/assets/Group 11.png" alt="" />
+                  <img src="/assets/Group_11.png" alt="" />
                 </li>
                 <li>
-                  <img src="/assets/Group 11.png" alt="" />
+                  <img src="/assets/Group_11.png" alt="" />
                 </li>
                 <li>
-                  <img src="/assets/Group 11.png" alt="" />
+                  <img src="/assets/Group_11.png" alt="" />
                 </li>
                 <li>
-                  <img src="/assets/Group 11.png" alt="" />
+                  <img src="/assets/Group_11.png" alt="" />
                 </li>
                 <li>
-                  <img src="/assets/Group 11.png" alt="" />
+                  <img src="/assets/Group_11.png" alt="" />
                 </li>
               </ul>
               <div>
-                <img src="/assets/Group 1000002754.png" alt="" />
+                <img src="/assets/Group_1000002754.png" alt="" />
               </div>
             </div>
           </div>

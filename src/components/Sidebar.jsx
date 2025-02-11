@@ -7,7 +7,7 @@ const Sidebar = ({ setActivePage }) => {
         <span className="mx-5">
           <img
             className="w-9 h-9 text-lg "
-            src="/assets/dummy logo.png"
+            src="\assets\dummy logo.png"
             alt=""
           />
         </span>
@@ -21,7 +21,7 @@ const Sidebar = ({ setActivePage }) => {
           {" "}
           <img
             className="w-5 h-5 text-red"
-            src="/assets/Graph 1.png"
+            src="\assets\Graph 1.png"
             alt=""
           />
           <p className="pl-5"> Dashboard</p>
